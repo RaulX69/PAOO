@@ -1,0 +1,3 @@
+C:/Users/raulo/Desktop/tema3/build/CMakeFiles/TemaApp.dir
+C:/Users/raulo/Desktop/tema3/build/CMakeFiles/edit_cache.dir
+C:/Users/raulo/Desktop/tema3/build/CMakeFiles/rebuild_cache.dir
