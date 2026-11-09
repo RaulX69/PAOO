@@ -1,0 +1,3 @@
+C:/Users/raulo/Desktop/temapaoo2/build/CMakeFiles/temapaoo2.dir
+C:/Users/raulo/Desktop/temapaoo2/build/CMakeFiles/edit_cache.dir
+C:/Users/raulo/Desktop/temapaoo2/build/CMakeFiles/rebuild_cache.dir
